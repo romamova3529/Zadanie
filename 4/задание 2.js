@@ -1,5 +1,5 @@
-let name = 'АЛЕКСАНДР';
-let surname = 'БЕРЕЗИН';
+let name = 'СВЕТЛАНА';
+let surname = 'РОМАНОВА';
 
 let NName = name.substr(0, 1).toUpperCase() + name.substr(1).toLowerCase();
 let NSurname = surname.substr(0, 1).toUpperCase() + surname.substr(1).toLowerCase();
